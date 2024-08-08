@@ -1,6 +1,4 @@
 
-import pytest_html
-
 class Test_abc:
 
     def test_m1(self):
